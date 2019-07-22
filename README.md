@@ -1,4 +1,4 @@
-# Programming Project for creating a Linux terminal using C++ programming language
+# Project for creating a Linux terminal using C++ programming language
 
 Authors/Coders: Saurjya Mukhopadhyay & Gustavo Gonzalez (UC Riverside, Winter 2019)
 
@@ -31,7 +31,7 @@ Diagram: ![Alt Text](https://github.com/cs100/assignment-cs-100-saurjya-gustavo/
  - bool execute() = 0 (pure virtual function)
 
 
-### Class: And (and for Or & Semi)
+### Class: And (should have this class for Or & Semi also)
  - And() is a constructor
  - ~And() is a destructor
  - And(Base* left, Base* right) is also a constructor
