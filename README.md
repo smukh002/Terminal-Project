@@ -5,11 +5,7 @@ Authors/Coders: Saurjya Mukhopadhyay & Gustavo Gonzalez (UC Riverside, Winter 20
 ## Introduction
 
 In this project, we will be developing a basic command shell. Some features that this command shell should have are the ability to send out a command prompt and the ability to read a line of input from the user. The shell will use the input from the user and execute certain commands using waitpid, fork, and execvp. In addition, the command shell should also be able to run multiple commands simultaneously. We designed code that will determine what commands to carry out based on the appearance of specific character symbols (||, &&, ;, [ ], ( ), <, >, >>, or |) in the user input.
-
-
-## Diagram
-![CS 100 UML](/images/cs100assignment#2.jpeg)
-Diagram: ![Alt Text](https://github.com/cs100/assignment-cs-100-saurjya-gustavo/blob/master/images/cs100assignment%232.jpeg?raw=true))
+)
 
 
 ## Classes
