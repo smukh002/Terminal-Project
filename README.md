@@ -9,7 +9,7 @@ In this project, we will be developing a basic command shell. Some features that
 
 ## Diagram
 ![CS 100 UML](/images/cs100assignment#2.jpeg)
-Diagram: ![Alt Text](https://github.com/cs100/assignment-cs-100-saurjya-gustavo/blob/master/images/cs100assignment%232.jpeg?raw=true)
+Diagram: ![Alt Text](https://github.com/cs100/assignment-cs-100-saurjya-gustavo/blob/master/images/cs100assignment%232.jpeg?raw=true))
 
 
 ## Classes
