@@ -1,6 +1,6 @@
 # Project for creating a Linux terminal using C++ programming language
 
-Authors/Coders: Saurjya Mukhopadhyay & Gustavo Gonzalez (UC Riverside, Winter 2019)
+Authors/Coders: Saurjya Mukhopadhyay & Gustavo Gonzalez 
 
 ## Introduction
 
